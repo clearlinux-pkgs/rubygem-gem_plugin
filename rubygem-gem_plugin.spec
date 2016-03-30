@@ -4,7 +4,7 @@
 #
 Name     : rubygem-gem_plugin
 Version  : 0.2.3
-Release  : 2
+Release  : 3
 URL      : https://rubygems.org/downloads/gem_plugin-0.2.3.gem
 Source0  : https://rubygems.org/downloads/gem_plugin-0.2.3.gem
 Summary  : No detailed summary available
@@ -68,43 +68,24 @@ popd
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/gem_plugin-0.2.3.gem
-/usr/lib64/ruby/gems/2.2.0/doc/gem_plugin-0.2.3/ri/GemPlugin/Base/category%3d-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/gem_plugin-0.2.3/ri/GemPlugin/Base/cdesc-Base.ri
-/usr/lib64/ruby/gems/2.2.0/doc/gem_plugin-0.2.3/ri/GemPlugin/Base/inherited-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/gem_plugin-0.2.3/ri/GemPlugin/Base/new-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/gem_plugin-0.2.3/ri/GemPlugin/Base/options-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/gem_plugin-0.2.3/ri/GemPlugin/Manager/cdesc-Manager.ri
-/usr/lib64/ruby/gems/2.2.0/doc/gem_plugin-0.2.3/ri/GemPlugin/Manager/config-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/gem_plugin-0.2.3/ri/GemPlugin/Manager/create-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/gem_plugin-0.2.3/ri/GemPlugin/Manager/gems-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/gem_plugin-0.2.3/ri/GemPlugin/Manager/load-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/gem_plugin-0.2.3/ri/GemPlugin/Manager/loaded%3f-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/gem_plugin-0.2.3/ri/GemPlugin/Manager/new-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/gem_plugin-0.2.3/ri/GemPlugin/Manager/plugins-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/gem_plugin-0.2.3/ri/GemPlugin/Manager/register-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/gem_plugin-0.2.3/ri/GemPlugin/Manager/resource-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/gem_plugin-0.2.3/ri/GemPlugin/Plugin-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/gem_plugin-0.2.3/ri/GemPlugin/PluginNotLoaded/cdesc-PluginNotLoaded.ri
-/usr/lib64/ruby/gems/2.2.0/doc/gem_plugin-0.2.3/ri/GemPlugin/cdesc-GemPlugin.ri
-/usr/lib64/ruby/gems/2.2.0/doc/gem_plugin-0.2.3/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/gems/gem_plugin-0.2.3/CHANGELOG
-/usr/lib64/ruby/gems/2.2.0/gems/gem_plugin-0.2.3/COPYING
-/usr/lib64/ruby/gems/2.2.0/gems/gem_plugin-0.2.3/LICENSE
-/usr/lib64/ruby/gems/2.2.0/gems/gem_plugin-0.2.3/Manifest
-/usr/lib64/ruby/gems/2.2.0/gems/gem_plugin-0.2.3/README
-/usr/lib64/ruby/gems/2.2.0/gems/gem_plugin-0.2.3/bin/gpgen
-/usr/lib64/ruby/gems/2.2.0/gems/gem_plugin-0.2.3/gem_plugin.gemspec
-/usr/lib64/ruby/gems/2.2.0/gems/gem_plugin-0.2.3/lib/gem_plugin.rb
-/usr/lib64/ruby/gems/2.2.0/gems/gem_plugin-0.2.3/resources/COPYING
-/usr/lib64/ruby/gems/2.2.0/gems/gem_plugin-0.2.3/resources/LICENSE
-/usr/lib64/ruby/gems/2.2.0/gems/gem_plugin-0.2.3/resources/README
-/usr/lib64/ruby/gems/2.2.0/gems/gem_plugin-0.2.3/resources/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/gem_plugin-0.2.3/resources/lib/project/init.rb
-/usr/lib64/ruby/gems/2.2.0/gems/gem_plugin-0.2.3/resources/resources/defaults.yaml
-/usr/lib64/ruby/gems/2.2.0/gems/gem_plugin-0.2.3/setup.rb
-/usr/lib64/ruby/gems/2.2.0/gems/gem_plugin-0.2.3/test/test_plugins.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/gem_plugin-0.2.3.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/gem_plugin-0.2.3.gem
+/usr/lib64/ruby/gems/2.3.0/gems/gem_plugin-0.2.3/CHANGELOG
+/usr/lib64/ruby/gems/2.3.0/gems/gem_plugin-0.2.3/COPYING
+/usr/lib64/ruby/gems/2.3.0/gems/gem_plugin-0.2.3/LICENSE
+/usr/lib64/ruby/gems/2.3.0/gems/gem_plugin-0.2.3/Manifest
+/usr/lib64/ruby/gems/2.3.0/gems/gem_plugin-0.2.3/README
+/usr/lib64/ruby/gems/2.3.0/gems/gem_plugin-0.2.3/bin/gpgen
+/usr/lib64/ruby/gems/2.3.0/gems/gem_plugin-0.2.3/gem_plugin.gemspec
+/usr/lib64/ruby/gems/2.3.0/gems/gem_plugin-0.2.3/lib/gem_plugin.rb
+/usr/lib64/ruby/gems/2.3.0/gems/gem_plugin-0.2.3/resources/COPYING
+/usr/lib64/ruby/gems/2.3.0/gems/gem_plugin-0.2.3/resources/LICENSE
+/usr/lib64/ruby/gems/2.3.0/gems/gem_plugin-0.2.3/resources/README
+/usr/lib64/ruby/gems/2.3.0/gems/gem_plugin-0.2.3/resources/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/gem_plugin-0.2.3/resources/lib/project/init.rb
+/usr/lib64/ruby/gems/2.3.0/gems/gem_plugin-0.2.3/resources/resources/defaults.yaml
+/usr/lib64/ruby/gems/2.3.0/gems/gem_plugin-0.2.3/setup.rb
+/usr/lib64/ruby/gems/2.3.0/gems/gem_plugin-0.2.3/test/test_plugins.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/gem_plugin-0.2.3.gemspec
 
 %files bin
 %defattr(-,root,root,-)
