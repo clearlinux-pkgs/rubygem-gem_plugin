@@ -4,7 +4,7 @@
 #
 Name     : rubygem-gem_plugin
 Version  : 0.2.3
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/gem_plugin-0.2.3.gem
 Source0  : https://rubygems.org/downloads/gem_plugin-0.2.3.gem
 Summary  : No detailed summary available
